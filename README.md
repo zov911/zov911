@@ -31,6 +31,10 @@
 | 🏭 **[Trim Press Tonnage Calculator](https://github.com/zov911/trim-press-tonnage-calculator)** · [demo](https://zov911.github.io/trim-press-tonnage-calculator/) | Trim and blanking force for die castings, forgings and sheet metal, with press class picks | Vanilla JS |
 | 📦 **[Production Target Calculator](https://github.com/zov911/production-target-calculator)** · [demo](https://zov911.github.io/production-target-calculator/) | Multi-line assembly targets, cycle time and staffing adjustments | Vanilla JS |
 
+### 💡 What I'm building next
+
+Vote on upcoming AI agents and marketing tools in the **[Ideas Lab](https://zov911.github.io/ideas-lab/)**: AI-answer visibility tracker, call-to-CRM agent, Google Ads wasted-spend detector, and more. 👍 the ones you want built.
+
 ### Toolbox
 
 **AI:** Claude API · OpenAI API · Ollama (Qwen3) · embeddings / vector search · structured outputs · agents & tool use<br>
